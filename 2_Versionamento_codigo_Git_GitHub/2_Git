@@ -1,0 +1,7 @@
+O que é o Git?
+ Sistema de controle de versão distribuido.
+ Gratuito e Open Source
+ Ramificações (Branching) e funsões (merging) eficientes
+leve e rapido 
+📁 Ramificação (Branching): A ramificação no Git permite que as equipes trabalhem em diferentes partes do código de forma independente, criando um ponteiro para um commit específico. Isso é essencial para o desenvolvimento colaborativo. source
+🔄 Merging (Mesclagem): A mesclagem é o processo de unir as alterações de um branch a outro, permitindo que as contribuições de diferentes desenvolvedores sejam integradas em um único código coeso. Isso pode ser feito através de uma pull request.

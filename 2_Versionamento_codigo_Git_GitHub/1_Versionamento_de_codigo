@@ -1,0 +1,18 @@
+O que é versionamento de codigo?
+A cada versão do codigo você esta criando uma nova versão;
+para evitar estouro de memoria, lentidão ou erro no codigo foi criado sistemas de controle de versão.
+São os tipos:
+* VCS Centralizados (CVCS)
+ ex: CVS, Subversion.
+ Possui um sevidor central com banco de versões, onde cada Dev acessa uma versão,
+ o problema é que se o sistema estiver fora de ar, um arquivo for corrompido, você pode perder o arquivo.
+
+
+* VCS Distribuido (DVCS)
+ ex: Git, Mercurial.
+Possui um servidor centralizado, mas cada DEv possui uma copia do servidor com o banco de versões.
+Permite ser editado mesmo que o sistema esteja fora do ar.
+Clona o repositorio completo, o que inclui o historico de versões.
+Cada clone é como um backup;
+Possibilita um fluxo de trabalho flexivel;
+Possibilita de trabalhar sem conexão à rede.
