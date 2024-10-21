@@ -1,0 +1,49 @@
+{
+    "name": "Business Theme",
+    "dataColors": [
+        "#FFFFFF",
+        "#000000",
+        "#4D4D4D",
+        "#808080",
+        "#D3D3D3"
+    ],
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#4D4D4D",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "general": [
+                    {
+                        "responsive": true
+                    }
+                ],
+                "title": [
+                    {
+                        "fontSize": 14,
+                        "fontFamily": "Arial",
+                        "fontColor": "#FFFFFF",
+                        "background": "#000000",
+                        "alignment": "center"
+                    }
+                ],
+                "background": [
+                    {
+                        "color": "#000000"
+                    }
+                ],
+                "border": [
+                    {
+                        "color": "#4D4D4D"
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": "#FFFFFF",
+                        "fontSize": 12
+                    }
+                ]
+            }
+        }
+    }
+}
